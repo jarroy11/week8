@@ -1,0 +1,9 @@
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.AssemblyInfoInputs.cache
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.AssemblyInfo.cs
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.RazorAssemblyInfo.cache
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.RazorAssemblyInfo.cs
+C:\Users\princ\OneDrive\Desktop\Ch17Ex1FutureValue\FutureValue\obj\Debug\net8.0\FutureValue.sourcelink.json
